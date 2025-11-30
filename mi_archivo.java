@@ -1,6 +1,6 @@
-public class mi-archivo {
+public class mi_archivo {
     public static void main(String[] args) {
-    System.out.println("¡Hola, mundo desde Java :)!");
+    System.out.println("¡Hola, mundo desde Java :3!");
     saludar("nombre");
     sumar(5, 3);
     }
